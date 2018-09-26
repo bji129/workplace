@@ -4,13 +4,6 @@ about: Suggest an idea for this project
 
 ---
 
-<!------------------- DevOps COACHING SECTION -------------------------->
-<!--------------------- DELETE IF NOT NEEDED ---------------------------->
-**DevOps Coaching request**
-
-<!-- Quickly explain the help needed -->
-
-
 <!----------------------- USER STORY SECTION ---------------------------->
 <!--------------------- DELETE IF NOT NEEDED ---------------------------->
 **User story**
